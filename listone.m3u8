@@ -1040,474 +1040,60 @@ LINKMFP/proxy/mpd/manifest.m3u8?d=https%3A//linear312-it-dash1-prd.selector.skyc
 LINKMFP/proxy/mpd/manifest.m3u8?d=https%3A//linear311-it-dash1-prd.selector.skycdn.it/016a/32910/FHD/skysport255/master.mpd%3F%26ck%3DeyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJBRGEzZ2FJdXV3d2d3V3JDZlYwVVNBIiwiayI6Ijh3bTVTc19hY2d2eDdWZEJTSi1KWncifV19&key_id={"keys"&key=[{"kty":"oct","kid":"ADa3gaIuuwwgwWrCfV0USA","k":"8wm5Ss_acgvx7VdBSJ-JZw"}]}&api_password=mfp
 #EXTINF:-1 tvg-id="" tvg-name="live15 " tvg-logo="" group-title="Altro", live15 (H)
 LINKMFP/proxy/mpd/manifest.m3u8?d=https%3A//linear311-it-dash1-prd.selector.skycdn.it/016a/32910/FHD/skysport255/master_stereo.mpd&key_id=0036b781a22ebb0c20c16ac27d5d1448&key=f309b94acfda720bf1ed5741489f8967&api_password=mfp
-#EXTINF:-1 tvg-id="Italy - Serie C - Vicenza vs Crotone" tvg-name="20:00 Italy - Serie C : Vicenza vs Crotone - 21/05/25" tvg-logo="https://skystreaming.help/content/thumbs/199442789e5903b7c81a379023009ce7." group-title="Soccer", Sky Sport 252 IT
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-4.php&redirect_stream=true&api_password=
 
-#EXTINF:-1 tvg-id="Italy - Serie C - Ternana vs Giana Erminio" tvg-name="20:00 Italy - Serie C : Ternana vs Giana Erminio - 21/05/25" tvg-logo="https://skystreaming.help/content/thumbs/d00ff49f29834db60c6ef411e204ed2b." group-title="Soccer", Sky Sport 255 IT
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-5.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Italy - Serie C - Audace Cerignola vs Atalanta II" tvg-name="20:00 Italy - Serie C : Audace Cerignola vs Atalanta II - 21/05/25" tvg-logo="https://skystreaming.help/content/thumbs/9371213b2bd6f27d20e1cf3cfbfd7c5f." group-title="Soccer", Sky Sport 253 IT
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-6.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Italy - Serie C - Pescara vs Vis Pesaro" tvg-name="20:00 Italy - Serie C : Pescara vs Vis Pesaro - 21/05/25" tvg-logo="https://skystreaming.help/content/thumbs/e7afedc2d686dbebd2c837f75c7e2957." group-title="Soccer", Sky Sport 254 IT
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-7.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="France Ligue 1 - Metz vs Reims" tvg-name="20:00 France Ligue 1 : Metz vs Reims - 21/05/25" tvg-logo="https://skystreaming.help/content/thumbs/e9572eb06ce0d21961143765590198f3." group-title="Soccer", beIN Sports 1 France
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-116.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="France Ligue 1 - Metz vs Reims" tvg-name="20:00 France Ligue 1 : Metz vs Reims - 21/05/25" tvg-logo="https://skystreaming.help/content/thumbs/e9572eb06ce0d21961143765590198f3." group-title="Soccer", Arena Sport 2 Croatia
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-433.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="France Ligue 1 - Metz vs Reims" tvg-name="20:00 France Ligue 1 : Metz vs Reims - 21/05/25" tvg-logo="https://skystreaming.help/content/thumbs/e9572eb06ce0d21961143765590198f3." group-title="Soccer", beIN Sports HD 4
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-94.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Italy - Serie B - Juve Stabia vs Cremonese" tvg-name="20:30 Italy - Serie B : Juve Stabia vs Cremonese - 21/05/25" tvg-logo="https://skystreaming.help/content/thumbs/68a6186ec54af0432f664882775f2183." group-title="Soccer", DAZN Italia
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-77.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Italy - Serie B - Juve Stabia vs Cremonese" tvg-name="20:30 Italy - Serie B : Juve Stabia vs Cremonese - 21/05/25" tvg-logo="https://skystreaming.help/content/thumbs/68a6186ec54af0432f664882775f2183." group-title="Soccer", Sport 5 Live Israel
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-146.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Italy - Serie B - Catanzaro vs Spezia" tvg-name="20:30 Italy - Serie B : Catanzaro vs Spezia - 21/05/25" tvg-logo="https://skystreaming.help/content/thumbs/09529b4baa19dd8080ab92c7b9c442ea." group-title="Soccer", DAZN Italia
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-86.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Italy - Serie B - Catanzaro vs Spezia" tvg-name="20:30 Italy - Serie B : Catanzaro vs Spezia - 21/05/25" tvg-logo="https://skystreaming.help/content/thumbs/09529b4baa19dd8080ab92c7b9c442ea." group-title="Soccer", Fox Soccer Plus
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-756.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Italy - Serie B - Catanzaro vs Spezia" tvg-name="20:30 Italy - Serie B : Catanzaro vs Spezia - 21/05/25" tvg-logo="https://skystreaming.help/content/thumbs/09529b4baa19dd8080ab92c7b9c442ea." group-title="Soccer", Sport 5 Live Israel
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-146.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TNT Sports 1 UK
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-31.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", CBS Sports Network
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-308.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Vodafone Sport
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-260.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Premier Sports 1 Ireland
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-771.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Movistar Liga de Campeones
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-435.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Movistar Plus+
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-437.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RTL DE
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-740.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SRF zwei
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-8.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport TV5 Portugal
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-290.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Polsat Sport Premium 1 Poland
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-9.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV8 IT
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-10.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal+ France
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-121.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal+ Foot France
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-463.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TRT 1 Turkey
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-11.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 251 IT
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-12.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Uno IT
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-461.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Tipik Belgium
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-13.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Ziggo Sport 1 NL
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-393.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", M4 Sports Hungary
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-265.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TUDN USA
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-66.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", UniMás
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-133.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Digi Sport 1 Romania
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-400.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport 2 Digitalb
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-105.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SportsMax 2
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-106.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RTK1 Kosovo
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-107.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ŠTV 1 Slovenia
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-108.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", JOJ Šport Slovakia
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-14.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN SPORTS Australia 1
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-491.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN SPORTS Australia 2
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-492.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports 3 Malaysia
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-714.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Mexico
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-925.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena 1 Premium Serbia
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cosmote Sport 1 Greece
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-622.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", HRT 2 Croatia
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-15.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 1 Croatia
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-432.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MAX Sport 3 Bulgaria
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-474.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", bTV Action Bulgaria
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-481.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Argentina
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-149.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport MaXimo 1
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-572.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Supersport Grandstand
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-412.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA 1
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-91.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA English 1
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-61.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="21:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 1 Israel
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-140.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court Suzanne-Lenglen" tvg-name="10:00 ROLAND GARROS QUALIFYING : Court Suzanne-Lenglen - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream 11
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 14" tvg-name="10:00 ROLAND GARROS QUALIFYING : Court 14 - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream 12
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 7" tvg-name="10:00 ROLAND GARROS QUALIFYING : Court 7 - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream 13
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 6" tvg-name="10:00 ROLAND GARROS QUALIFYING : Court 6 - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream 14
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 2" tvg-name="10:00 ROLAND GARROS QUALIFYING : Court 2 - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream 16
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 3" tvg-name="10:00 ROLAND GARROS QUALIFYING : Court 3 - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream 17
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 4" tvg-name="10:00 ROLAND GARROS QUALIFYING : Court 4 - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream 18
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 5" tvg-name="10:00 ROLAND GARROS QUALIFYING : Court 5 - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream 19
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 8" tvg-name="10:00 ROLAND GARROS QUALIFYING : Court 8 - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream 21
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 9" tvg-name="10:00 ROLAND GARROS QUALIFYING : Court 9 - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream 22
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 10" tvg-name="10:00 ROLAND GARROS QUALIFYING : Court 10 - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream 23
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 11" tvg-name="10:00 ROLAND GARROS QUALIFYING : Court 11 - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream 24
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 12" tvg-name="10:00 ROLAND GARROS QUALIFYING : Court 12 - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream 25
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 13" tvg-name="10:00 ROLAND GARROS QUALIFYING : Court 13 - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ROLAND GARROS QUALIFYING", Tennis Stream 26
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="ATP - HAMBURG - Bautista-Agut R. vs Tiafoe F." tvg-name="12:00 ATP - HAMBURG : Bautista-Agut R. vs Tiafoe F. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - HAMBURG", Tennis Stream 7
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="ATP - HAMBURG - Lehecka J. vs Cerundolo F." tvg-name="12:30 ATP - HAMBURG : Lehecka J. vs Cerundolo F. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - HAMBURG", Tennis Stream 8
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="ATP - HAMBURG - Rublev A. vs Engel J." tvg-name="13:30 ATP - HAMBURG : Rublev A. vs Engel J. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - HAMBURG", Tennis Stream 7
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="ATP - HAMBURG - Davidovich Fokina A. vs Cobolli F." tvg-name="13:30 ATP - HAMBURG : Davidovich Fokina A. vs Cobolli F. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - HAMBURG", Tennis Stream 8
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="ATP - HAMBURG - Darderi L. vs Nakashima B." tvg-name="15:00 ATP - HAMBURG : Darderi L. vs Nakashima B. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - HAMBURG", Tennis Stream 8
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="ATP - HAMBURG - Zverev A. vs Muller A." tvg-name="16:00 ATP - HAMBURG : Zverev A. vs Muller A. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - HAMBURG", Tennis Stream 7
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="ATP - HAMBURG - Mpetshi Perricard G. vs Auger-Aliassime F." tvg-name="18:00 ATP - HAMBURG : Mpetshi Perricard G. vs Auger-Aliassime F. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - HAMBURG", Tennis Stream 7
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="ATP - GENEVA - Fritz T. vs Halys Q." tvg-name="11:30 ATP - GENEVA : Fritz T. vs Halys Q. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - GENEVA", Tennis Stream 6
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="ATP - GENEVA - Khachanov K. vs Nishikori K." tvg-name="13:00 ATP - GENEVA : Khachanov K. vs Nishikori K. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - GENEVA", Tennis Stream 6
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="ATP - GENEVA - Rinderknech A. vs Hurkacz H." tvg-name="14:00 ATP - GENEVA : Rinderknech A. vs Hurkacz H. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - GENEVA", Tennis Stream 6
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="ATP - GENEVA - Fucsovics M. vs Djokovic N." tvg-name="18:00 ATP - GENEVA : Fucsovics M. vs Djokovic N. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - GENEVA", Tennis Stream 6
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="ATP - GENEVA - Norrie C. vs Machac T." tvg-name="19:30 ATP - GENEVA : Norrie C. vs Machac T. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - GENEVA", Tennis Stream 6
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="WTA - STRASBOURG - Haddad Maia B. vs Krueger A." tvg-name="11:00 WTA - STRASBOURG : Haddad Maia B. vs Krueger A. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - STRASBOURG", Tennis Stream 1
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="WTA - STRASBOURG - Blinkova A. vs Navarro E." tvg-name="12:30 WTA - STRASBOURG : Blinkova A. vs Navarro E. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - STRASBOURG", Tennis Stream 1
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="WTA - STRASBOURG - Collins D. vs Raducanu E." tvg-name="14:00 WTA - STRASBOURG : Collins D. vs Raducanu E. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - STRASBOURG", Tennis Stream 1
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="WTA - STRASBOURG - Collins D. vs Raducanu E." tvg-name="14:00 WTA - STRASBOURG : Collins D. vs Raducanu E. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - STRASBOURG", Tennis Stream 15
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="WTA - STRASBOURG - Pegula J. vs Kalinskaya A." tvg-name="17:30 WTA - STRASBOURG : Pegula J. vs Kalinskaya A. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - STRASBOURG", Tennis Stream 1
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="WTA - RABAT - Bouzas Maneiro J. vs Nahimana S." tvg-name="12:00 WTA - RABAT : Bouzas Maneiro J. vs Nahimana S. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - RABAT", Tennis Stream 5
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="WTA - RABAT - Joint M. vs Volynets K." tvg-name="12:00 WTA - RABAT : Joint M. vs Volynets K. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - RABAT", Tennis Stream 4
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="WTA - RABAT - Li A. vs Baptiste H." tvg-name="12:00 WTA - RABAT : Li A. vs Baptiste H. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - RABAT", Tennis Stream 3
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="WTA - RABAT - Rus A. vs Mateas M." tvg-name="13:30 WTA - RABAT : Rus A. vs Mateas M. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - RABAT", Tennis Stream 4
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="WTA - RABAT - Pieri T. vs Tomljanovic A." tvg-name="13:30 WTA - RABAT : Pieri T. vs Tomljanovic A. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - RABAT", Tennis Stream 3
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="WTA - RABAT - Bolsova Zadoinov A. vs Cristian J." tvg-name="13:30 WTA - RABAT : Bolsova Zadoinov A. vs Cristian J. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - RABAT", Tennis Stream 5
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="WTA - RABAT - Rakhimova K. vs Osorio C." tvg-name="15:00 WTA - RABAT : Rakhimova K. vs Osorio C. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - RABAT", Tennis Stream 3
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="WTA - RABAT - Sevastova A. vs Sonmez Z." tvg-name="16:30 WTA - RABAT : Sevastova A. vs Sonmez Z. - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - RABAT", Tennis Stream 3
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-40.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-46.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN5
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-115.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis DE
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-884.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-713.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 1
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-491.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 2
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-492.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-701.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Polsat Sport 1 Poland
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cosmote Sport 7
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-628.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Nova Sports 6 Greece
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-636.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes 2 Spain
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-438.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 5 Cyprus
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-915.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 1 Bulgaria
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-472.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Premium 3 Serbia
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-139.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Digi Sport 2 Romania
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-401.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-393.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-773.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-396.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 5 NL
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-383.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-453.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Digi Sport 4 Romania
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-403.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 3 Bulgaria
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-474.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-102.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 1 Croatia
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Gold Israel
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-148.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Live Israel
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-146.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Men's basketball - ORLEN Basket League" tvg-name="17:20 Men's basketball : ORLEN Basket League - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Polsat Sport Poland
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Lithuanian League - Siauliai vs Zalgiris" tvg-name="17:50 Lithuanian League : Siauliai vs Zalgiris - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 4 Croatia
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-104.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Serbia KLS, Playoffs - FMP Beograd vs KK Mega MIS" tvg-name="18:00 Serbia KLS, Playoffs : FMP Beograd vs KK Mega MIS - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 2 Premium
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-135.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="BBL - Basketball Braunschweig vs Wurzburg" tvg-name="18:30 BBL : Basketball Braunschweig vs Wurzburg - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 8 Croatia
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-109.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="BBL - Basketball Braunschweig vs Wurzburg" tvg-name="18:30 BBL : Basketball Braunschweig vs Wurzburg - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Israel
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-144.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="BBL - Alba Berlin vs. Ulm Basketball" tvg-name="20:00 BBL : Alba Berlin vs. Ulm Basketball - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 5 Serbia
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-940.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="BBL - Alba Berlin vs. Ulm Basketball" tvg-name="20:00 BBL : Alba Berlin vs. Ulm Basketball - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 1 Croatia
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="BBL - Alba Berlin vs. Ulm Basketball" tvg-name="20:00 BBL : Alba Berlin vs. Ulm Basketball - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Plus Israel
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-145.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Iceland Basketball Premier League - UMF Tindastoll vs Stjarnan" tvg-name="22:00 Iceland Basketball Premier League : UMF Tindastoll vs Stjarnan - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Stöð 2 Sport 1
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-110.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="WNBA - Phoenix Mercury W vs Los Angeles Sparks W" tvg-name="04:00 WNBA : Phoenix Mercury W vs Los Angeles Sparks W - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Spectrum SportsNet USA
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-982.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="WNBA - Washington Mystics W vs Golden State Valkyries W" tvg-name="04:00 WNBA : Washington Mystics W vs Golden State Valkyries W - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Monumental Sports Network
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-778.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Home Feed
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-2.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Away Feed
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-3.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TNT USA
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-338.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", truTV USA
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-341.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TNT Sports 1 UK
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-31.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN3
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-113.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN1
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-111.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN4
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-114.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN5
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-115.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN Sports 1 France
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-116.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Movistar Deportes Spain
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-436.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Premium 1 Serbia
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN 1 NL
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-379.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport TV1 Portugal
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-49.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", CANAL+ Sport Poland
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-48.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Cytavision Sports 6 Cyprus
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-916.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Cosmote Sport 4 Greece
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-625.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TV2 Sport X Denmark
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-808.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 1 Croatia
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-432.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TV4 Sportkanalen
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-707.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN SPORTS English 1
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-61.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN SPORTS 1
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-91.php&redirect_stream=true&api_password=
-
+# Canali aggiunti da Hattrick
+#EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport", Sky Sport 24 (Hd)
+LINKMFP/proxy/mpd/manifest.m3u8?d=https%3A//linear303-it-dash1-prd.selector.skycdn.it/016a/31035/FHD/skysport24/master_stereo.mpd%3F%26ck%3DMDAzNjYzZGRmMWFjYjI1ZWE4OGE3Y2Y5NzNhZmMwZDU6MzVlYTkxYjQxNTFkNjk3NTAwNzk5OGMzMjhkYWVlNmM%3D&key_id=003663ddf1acb25ea88a7cf973afc0d5&key=35ea91b4151d6975007998c328daee6c&api_password=mfp
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport UNO " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport", Sky Sport UNO (Hd)
+LINKMFP/proxy/mpd/manifest.m3u8?d=https%3A//linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master_stereo.mpd%3F%26ck%3DMDAzNmFhYTFkNjhjNmI0ODdlMjlhNWNiMDgwYThhMjg6YTNlOGRiM2ZmM2M4NzZmN2I0M2E5NjFiNjRhNjM0NzQ%3D&key_id=0036aaa1d68c6b487e29a5cb080a8a28&key=a3e8db3ff3c876f7b43a961b64a63474&api_password=mfp
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport UNO " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport", Sky Sport UNO (H)
+LINKMFP/proxy/mpd/manifest.m3u8?d=https%3A//linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master_stereo.mpd&key_id=0036aaa1d68c6b487e29a5cb080a8a28&key=a3e8db3ff3c876f7b43a961b64a63474&api_password=mfp
+#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport", Sky Sport Calcio (Hd)
+LINKMFP/proxy/mpd/manifest.m3u8?d=https%3A//linear302-it-dash1-prd.selector.skycdn.it/016a/31209/FHD/skysportseriea/master_stereo.mpd&key_id=00362f95db61eba0e6f14acee3f71e01&key=fb74cd84b53c7557e18424a3356c4665&api_password=mfp
+#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport", Sky Sport Calcio (H)
+LINKMFP/proxy/mpd/manifest.m3u8?d=https%3A//linear303-it-dash1-prd.selector.skycdn.it//016a/31209/FHD/skysportseriea/master_stereo.mpd&key_id=00362f95db61eba0e6f14acee3f71e01&key=fb74cd84b53c7557e18424a3356c4665&api_password=mfp
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport", Sky Sport Arena (Hd)
+LINKMFP/proxy/mpd/manifest.m3u8?d=https%3A//linear304-it-dash1-prd.selector.skycdn.it/016a/31024/FHD/skysportarena/master_stereo.mpd%3F%26ck%3DMDAzNjhmMmJmMTA3MzZjOWMyYzAyYWIwZmE2OTRkMDA6OTJlZWM5ZDg0MWFjMGMxZmYxNmI5MGEwZGI4MmM3OTI%3D&key_id=00368f2bf10736c9c2c02ab0fa694d00&key=92eec9d841ac0c1ff16b90a0db82c792&api_password=mfp
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport", Sky Sport Arena (H)
+LINKMFP/proxy/mpd/manifest.m3u8?d=https%3A//linear304-it-dash1-prd.selector.skycdn.it/016a/31024/FHD/skysportarena/master_stereo.mpd&key_id=00368f2bf10736c9c2c02ab0fa694d00&key=92eec9d841ac0c1ff16b90a0db82c792&api_password=mfp
+#EXTINF:-1 tvg-id="skysportmax.it" tvg-name="Sky Sport Football " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport", Sky Sport Football (Hd)
+LINKMFP/proxy/mpd/manifest.m3u8?d=https%3A//linear305-it-dash1-prd.selector.skycdn.it/016a/31248/FHD/skysportmax/master_stereo.mpd%3F%26ck%3DMDAzNmYxM2JjYTFjNTYwM2I5ZjNiYjI4ZWMyOGZhODA6ZjAxNDAzYmNiNWEwMmM2MTE1M2QyOTdmYjBjNDM5NWY%3D&key_id=0036f13bca1c5603b9f3bb28ec28fa80&key=f01403bcb5a02c61153d297fb0c4395f&api_password=mfp
+#EXTINF:-1 tvg-id="skysportmax.it" tvg-name="Sky Sport Football " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport", Sky Sport Football (H)
+LINKMFP/proxy/mpd/manifest.m3u8?d=https%3A//linear305-it-dash1-prd.selector.skycdn.it/016a/31248/FHD/skysportmax/master_stereo.mpd&key_id=0036f13bca1c5603b9f3bb28ec28fa80&key=f01403bcb5a02c61153d297fb0c4395f&api_password=mfp
+#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport", Sky Sport F1 (Hd)
+LINKMFP/proxy/mpd/manifest.m3u8?d=https%3A//linear307-it-dash1-prd.selector.skycdn.it/016a/31478/FHD/skysportf1/master_stereo.mpd%3F%26ck%3DMDAzNmE5NmI2YmJiZjE4Mjg0ODhmOTBlNmIyY2ExZjQ6ZDI0ZTZhZTkyNmU4OGY4MzAzYjY5MjYyNzFmZjgxNTU%3D&key_id=0036a96b6bbbf1828488f90e6b2ca1f4&key=d24e6ae926e88f8303b6926271ff8155&api_password=mfp
+#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport", Sky Sport F1 (H)
+LINKMFP/proxy/mpd/manifest.m3u8?d=https%3A//linear307-it-dash1-prd.selector.skycdn.it/016a/31478/FHD/skysportf1/master_stereo.mpd&key_id=0036a96b6bbbf1828488f90e6b2ca1f4&key=d24e6ae926e88f8303b6926271ff8155&api_password=mfp
+#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport MotoGP " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport", Sky Sport MotoGP (Hd)
+LINKMFP/proxy/mpd/manifest.m3u8?d=https%3A//linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master_stereo.mpd%3F%26ck%3DMDAzNjJlOTE4MWVhYTBjNWY5MTc2MWFkZTM1MTVlYjg6NTJjZjNjMjc4ODVkNThhZDc2YWFmMzZkNDIxN2E5ODQ%3D&key_id=00362e9181eaa0c5f91761ade3515eb8&key=52cf3c27885d58ad76aaf36d4217a984&api_password=mfp
+#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport MotoGP " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport", Sky Sport MotoGP (H)
+LINKMFP/proxy/mpd/manifest.m3u8?d=https%3A//linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master_stereo.mpd&key_id=00362e9181eaa0c5f91761ade3515eb8&key=52cf3c27885d58ad76aaf36d4217a984&api_password=mfp
+#EXTINF:-1 tvg-id="dazn1.it" tvg-name="DAZN 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png" group-title="Sport", DAZN 1 (Hd)
+LINKMFP/proxy/mpd/manifest.m3u8?d=https%3A//abe6fjxaaaaaaaamc4pg55ekcyqz4.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd&key_id=8272bf6ba46f23f9da5270057b6e028a&key=74ae70dd10b4bb38ed6ffe843f3e2ccd&api_password=mfp
+#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport", Sky Sport Tennis (Hd)
+LINKMFP/proxy/mpd/manifest.m3u8?d=https%3A//linear310-it-dash1-prd.selector.skycdn.it/016a/32559/FHD/skysporttennis/master.mpd%3F%26ck%3DMDAzNmZiN2M1NjRjNGViOTllMzEwZjVmYTgyYWIyZjI6NjQ3ZjA3YjY4NThhNjY5NDU2ZTczY2ExMDNiNGMyYzA%3D&key_id=0036fb7c564c4eb99e310f5fa82ab2f2&key=647f07b6858a669456e73ca103b4c2c0&api_password=mfp
+#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport", Sky Sport Tennis (H)
+LINKMFP/proxy/mpd/manifest.m3u8?d=https%3A//linear310-it-dash1-prd.selector.skycdn.it/016a/32559/FHD/skysporttennis/master_stereo.mpd&key_id=0036fb7c564c4eb99e310f5fa82ab2f2&key=647f07b6858a669456e73ca103b4c2c0&api_password=mfp
+#EXTINF:-1 tvg-id="" tvg-name="nbahd " tvg-logo="" group-title="Altro", nbahd (Hd)
+LINKMFP/proxy/mpd/manifest.m3u8?d=https%3A//linear308-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master_stereo.mpd&key_id=00364eac2ffee337640e39682439b540&key=0960172d9000c470ade0658bd36c1d53&api_password=mfp
+#EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky UNO " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky", Sky UNO (Hd)
+LINKMFP/proxy/mpd/manifest.m3u8?d=https%3A//linear313-it-dash1-prd.selector.skycdn.it/016a/32477/FHD/skyuno/master_stereo.mpd&key_id=003610b8556000936e48061cdb4ee11a&key=2cd6bcc2160aa6ec048e5a5f7a0f73c8&api_password=mfp
+#EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky UNO " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky", Sky UNO (H)
+LINKMFP/proxy/mpd/manifest.m3u8?d=https%3A//linear313-it-dash1-prd.selector.skycdn.it/016a/32477/FHD/skyuno/master_stereo.mpd&key_id=003610b8556000936e48061cdb4ee11a&key=2cd6bcc2160aa6ec048e5a5f7a0f73c8&api_password=mfp
+#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="EuroSport 1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", EuroSport 1 (H)
+LINKMFP/proxy/mpd/manifest.m3u8?d=https%3A//linear311-it-dash1-prd.selector.skycdn.it/016a/313073/FHD/eurosport/master_stereo.mpd&key_id=0036bb3fa7e6f2c334d7cba5c28b6caf&key=217fa35739cd68e90b2cd23322c01312&api_password=mfp
+#EXTINF:-1 tvg-id="" tvg-name="live12hd " tvg-logo="" group-title="Altro", live12hd (Hd)
+LINKMFP/proxy/mpd/manifest.m3u8?d=https%3A//linear312-it-dash1-prd.selector.skycdn.it/016a/32951/FHD/skysport252/master.mpd&key_id=003610b4ce44ba838c199b6636cf7431&key=8369cbbccf0c1ff6bdbacbdae9252a04&api_password=mfp
+#EXTINF:-1 tvg-id="" tvg-name="live12 " tvg-logo="" group-title="Altro", live12 (H)
+LINKMFP/proxy/mpd/manifest.m3u8?d=https%3A//linear312-it-dash1-prd.selector.skycdn.it/016a/32951/FHD/skysport252/master_stereo.mpd&key_id=003610b4ce44ba838c199b6636cf7431&key=8369cbbccf0c1ff6bdbacbdae9252a04&api_password=mfp
+#EXTINF:-1 tvg-id="" tvg-name="live14hd " tvg-logo="" group-title="Altro", live14hd (Hd)
+LINKMFP/proxy/mpd/manifest.m3u8?d=https%3A//linear312-it-dash1-prd.selector.skycdn.it/016a/31234/FHD/skysport254/master.mpd%3F%26ck%3DeyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJBRGFjRk1JTGVLcmJIc0Rqd09kSmVRIiwiayI6IjUyaDJmaXh5T05nR21JZTdOcTdYLWcifV19&key_id={"keys"&key=[{"kty":"oct","kid":"ADacFMILeKrbHsDjwOdJeQ","k":"52h2fixyONgGmIe7Nq7X-g"}]}&api_password=mfp
+#EXTINF:-1 tvg-id="" tvg-name="live14 " tvg-logo="" group-title="Altro", live14 (H)
+LINKMFP/proxy/mpd/manifest.m3u8?d=https%3A//linear312-it-dash1-prd.selector.skycdn.it/016a/31234/FHD/skysport254/master_stereo.mpd&key_id=00369c14c20b78aadb1ec0e3c0e74979&key=e768767e2c7238d8069887bb36aed7fa&api_password=mfp
+#EXTINF:-1 tvg-id="" tvg-name="live15hd " tvg-logo="" group-title="Altro", live15hd (Hd)
+LINKMFP/proxy/mpd/manifest.m3u8?d=https%3A//linear311-it-dash1-prd.selector.skycdn.it/016a/32910/FHD/skysport255/master.mpd%3F%26ck%3DeyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJBRGEzZ2FJdXV3d2d3V3JDZlYwVVNBIiwiayI6Ijh3bTVTc19hY2d2eDdWZEJTSi1KWncifV19&key_id={"keys"&key=[{"kty":"oct","kid":"ADa3gaIuuwwgwWrCfV0USA","k":"8wm5Ss_acgvx7VdBSJ-JZw"}]}&api_password=mfp
+#EXTINF:-1 tvg-id="" tvg-name="live15 " tvg-logo="" group-title="Altro", live15 (H)
+LINKMFP/proxy/mpd/manifest.m3u8?d=https%3A//linear311-it-dash1-prd.selector.skycdn.it/016a/32910/FHD/skysport255/master_stereo.mpd&key_id=0036b781a22ebb0c20c16ac27d5d1448&key=f309b94acfda720bf1ed5741489f8967&api_password=mfp
 #EXTINF:-1 tvg-id="Bundesliga - Heidenheim vs Elversberg" tvg-name="20:30 Bundesliga : Heidenheim vs Elversberg - 22/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Bundesliga 1
 /extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-558.php&redirect_stream=true&api_password=
 
