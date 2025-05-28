@@ -308,7 +308,7 @@ def save_m3u8(channels):
                tvg_id_modified = SPECIAL_CHANNEL_MAPPING[tvg_id_modified]
 
             f.write(f'#EXTINF:-1 tvg-id="{tvg_id_modified}.it" tvg-name="{tvg_id}" tvg-logo="{logo}" group-title="{category}",{name}\n')
-            f.write(f"{PROXY}{url}{HEADER}\n\n")
+           f.write(f"{PROXYMFPYPROXYMFPNOPSWKUrKHEADER}n\n")
 
 def main():
     channels = fetch_channels()
