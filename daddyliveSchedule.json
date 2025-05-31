@@ -62,6 +62,16 @@
                 ]
             },
             {
+                "time": "19:00",
+                "event": "TNT Extreme Wrestling: Going Off Big Time 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "170"
+                    }
+                ]
+            },
+            {
                 "time": "21:00",
                 "event": "2025 Opening Week Extravaganza at Oswego Speedway",
                 "channels": [
