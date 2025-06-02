@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Italy - Serie B - Spezia vs Cremonese" tvg-name="19:30 Italy - Serie B : Spezia vs Cremonese - 01/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Italia
-https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-10.php&redirect_stream=true&api_password=shadow65
-
-#EXTINF:-1 tvg-id="Formula E Shanghai | Race 2 Round 10 - Formula E Shanghai | Race 2 Round 10" tvg-name="07:00 Formula E Shanghai | Race 2 Round 10 - 01/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ITV 4 UK
-https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-353.php&redirect_stream=true&api_password=shadow65
-
-#EXTINF:-1 tvg-id="Serie A2 2024/2025-Playoff - Semi-final 2 - possibly game 4" tvg-name="18:50 Serie A2 2024/2025-Playoff: Semi-final 2 - possibly game 4 - 01/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Rai Sports 1 IT
-https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=shadow65
-
-#EXTINF:-1 tvg-id="Basket - Serie A Playoffs | Semi-Finals | Game 2" tvg-name="19:40 Basket : Serie A Playoffs | Semi-Finals | Game 2 - 01/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Eurosport 2 IT
-https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=shadow65
-
-#EXTINF:-1 tvg-id="Italy Serie A - Trapani Shark vs. Pallacanestro Brescia" tvg-name="19:45 Italy Serie A : Trapani Shark vs. Pallacanestro Brescia - 01/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Rai Sport 1 Italy
-https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=shadow65
-
 #EXTINF:-1 tvg-id="Italy - Serie C - Ternana vs Pescara" tvg-name="20:15 Italy - Serie C : Ternana vs Pescara - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 251 IT
 https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-2.php&redirect_stream=true&api_password=shadow65
 
