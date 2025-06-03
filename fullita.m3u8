@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Italy - Serie C - Ternana vs Pescara" tvg-name="20:15 Italy - Serie C : Ternana vs Pescara - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 251 IT
-https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-2.php&redirect_stream=true&api_password=shadow65
-
-#EXTINF:-1 tvg-id="Lega A - Virtus Bologna vs Olimpia Milano" tvg-name="19:45 Lega A : Virtus Bologna vs Olimpia Milano - 02/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Eurosport 2 IT
-https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=shadow65
-
 #EXTINF:-1 tvg-id="UEFA Women's Nations League - Spain vs England" tvg-name="18:00 UEFA Women's Nations League : Spain vs England - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ITV 1 UK
 https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-350.php&redirect_stream=true&api_password=shadow65
 
