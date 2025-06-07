@@ -2908,46 +2908,90 @@ https://elwood65-vadase.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//linear313-i
 https://elwood65-vadase.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//linear311-it-dash1-prd.selector.skycdn.it/016a/313073/FHD/eurosport/master_stereo.mpd&key_id=0036bb3fa7e6f2c334d7cba5c28b6caf&key=217fa35739cd68e90b2cd23322c01312&api_password=mfp
 #EXTINF:-1 tvg-id="" tvg-name="euro2 " tvg-logo="" group-title="Altro", euro2 (H)
 https://elwood65-vadase.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//linear312-it-dash1-prd.selector.skycdn.it/016a/31150/FHD/eurosport2/master_stereo.mpd&key_id=003670a7034342a4a07c91173818c61c&key=7b90055c1a1ea34d9090e9ebf6c4db8a&api_password=mfp
+
+# Canali aggiunti da Hattrick
+#EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport", Sky Sport 24 (Hd)
+https://elwood65-vadase.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//linear303-it-dash1-prd.selector.skycdn.it/016a/31035/FHD/skysport24/master_stereo.mpd%3F%26ck%3DMDAzNjYzZGRmMWFjYjI1ZWE4OGE3Y2Y5NzNhZmMwZDU6MzVlYTkxYjQxNTFkNjk3NTAwNzk5OGMzMjhkYWVlNmM%3D&key_id=003663ddf1acb25ea88a7cf973afc0d5&key=35ea91b4151d6975007998c328daee6c&api_password=mfp
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport UNO " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport", Sky Sport UNO (Hd)
+https://elwood65-vadase.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master_stereo.mpd%3F%26ck%3DMDAzNmFhYTFkNjhjNmI0ODdlMjlhNWNiMDgwYThhMjg6YTNlOGRiM2ZmM2M4NzZmN2I0M2E5NjFiNjRhNjM0NzQ%3D&key_id=0036aaa1d68c6b487e29a5cb080a8a28&key=a3e8db3ff3c876f7b43a961b64a63474&api_password=mfp
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport UNO " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport", Sky Sport UNO (H)
+https://elwood65-vadase.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master_stereo.mpd&key_id=0036aaa1d68c6b487e29a5cb080a8a28&key=a3e8db3ff3c876f7b43a961b64a63474&api_password=mfp
+#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport", Sky Sport Calcio (Hd)
+https://elwood65-vadase.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//linear302-it-dash1-prd.selector.skycdn.it/016a/31209/FHD/skysportseriea/master_stereo.mpd&key_id=00362f95db61eba0e6f14acee3f71e01&key=fb74cd84b53c7557e18424a3356c4665&api_password=mfp
+#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport", Sky Sport Calcio (H)
+https://elwood65-vadase.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//linear303-it-dash1-prd.selector.skycdn.it//016a/31209/FHD/skysportseriea/master_stereo.mpd&key_id=00362f95db61eba0e6f14acee3f71e01&key=fb74cd84b53c7557e18424a3356c4665&api_password=mfp
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport", Sky Sport Arena (Hd)
+https://elwood65-vadase.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//linear304-it-dash1-prd.selector.skycdn.it/016a/31024/FHD/skysportarena/master_stereo.mpd%3F%26ck%3DMDAzNjhmMmJmMTA3MzZjOWMyYzAyYWIwZmE2OTRkMDA6OTJlZWM5ZDg0MWFjMGMxZmYxNmI5MGEwZGI4MmM3OTI%3D&key_id=00368f2bf10736c9c2c02ab0fa694d00&key=92eec9d841ac0c1ff16b90a0db82c792&api_password=mfp
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport", Sky Sport Arena (H)
+https://elwood65-vadase.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//linear304-it-dash1-prd.selector.skycdn.it/016a/31024/FHD/skysportarena/master_stereo.mpd&key_id=00368f2bf10736c9c2c02ab0fa694d00&key=92eec9d841ac0c1ff16b90a0db82c792&api_password=mfp
+#EXTINF:-1 tvg-id="skysportmax.it" tvg-name="Sky Sport Football " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport", Sky Sport Football (Hd)
+https://elwood65-vadase.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//linear305-it-dash1-prd.selector.skycdn.it/016a/31248/FHD/skysportmax/master_stereo.mpd%3F%26ck%3DMDAzNmYxM2JjYTFjNTYwM2I5ZjNiYjI4ZWMyOGZhODA6ZjAxNDAzYmNiNWEwMmM2MTE1M2QyOTdmYjBjNDM5NWY%3D&key_id=0036f13bca1c5603b9f3bb28ec28fa80&key=f01403bcb5a02c61153d297fb0c4395f&api_password=mfp
+#EXTINF:-1 tvg-id="skysportmax.it" tvg-name="Sky Sport Football " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport", Sky Sport Football (H)
+https://elwood65-vadase.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//linear305-it-dash1-prd.selector.skycdn.it/016a/31248/FHD/skysportmax/master_stereo.mpd&key_id=0036f13bca1c5603b9f3bb28ec28fa80&key=f01403bcb5a02c61153d297fb0c4395f&api_password=mfp
+#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport", Sky Sport F1 (Hd)
+https://elwood65-vadase.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//linear307-it-dash1-prd.selector.skycdn.it/016a/31478/FHD/skysportf1/master_stereo.mpd%3F%26ck%3DMDAzNmE5NmI2YmJiZjE4Mjg0ODhmOTBlNmIyY2ExZjQ6ZDI0ZTZhZTkyNmU4OGY4MzAzYjY5MjYyNzFmZjgxNTU%3D&key_id=0036a96b6bbbf1828488f90e6b2ca1f4&key=d24e6ae926e88f8303b6926271ff8155&api_password=mfp
+#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport", Sky Sport F1 (H)
+https://elwood65-vadase.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//linear307-it-dash1-prd.selector.skycdn.it/016a/31478/FHD/skysportf1/master_stereo.mpd&key_id=0036a96b6bbbf1828488f90e6b2ca1f4&key=d24e6ae926e88f8303b6926271ff8155&api_password=mfp
+#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport MotoGP " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport", Sky Sport MotoGP (Hd)
+https://elwood65-vadase.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master_stereo.mpd%3F%26ck%3DMDAzNjJlOTE4MWVhYTBjNWY5MTc2MWFkZTM1MTVlYjg6NTJjZjNjMjc4ODVkNThhZDc2YWFmMzZkNDIxN2E5ODQ%3D&key_id=00362e9181eaa0c5f91761ade3515eb8&key=52cf3c27885d58ad76aaf36d4217a984&api_password=mfp
+#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport MotoGP " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport", Sky Sport MotoGP (H)
+https://elwood65-vadase.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master_stereo.mpd&key_id=00362e9181eaa0c5f91761ade3515eb8&key=52cf3c27885d58ad76aaf36d4217a984&api_password=mfp
+#EXTINF:-1 tvg-id="dazn1.it" tvg-name="DAZN 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png" group-title="Sport", DAZN 1 (Hd)
+https://elwood65-vadase.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//abe6fjxaaaaaaaamc4pg55ekcyqz4.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd&key_id=8272bf6ba46f23f9da5270057b6e028a&key=74ae70dd10b4bb38ed6ffe843f3e2ccd&api_password=mfp
+#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport", Sky Sport Tennis (Hd)
+https://elwood65-vadase.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//linear310-it-dash1-prd.selector.skycdn.it/016a/32559/FHD/skysporttennis/master.mpd%3F%26ck%3DMDAzNmZiN2M1NjRjNGViOTllMzEwZjVmYTgyYWIyZjI6NjQ3ZjA3YjY4NThhNjY5NDU2ZTczY2ExMDNiNGMyYzA%3D&key_id=0036fb7c564c4eb99e310f5fa82ab2f2&key=647f07b6858a669456e73ca103b4c2c0&api_password=mfp
+#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport", Sky Sport Tennis (H)
+https://elwood65-vadase.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//linear310-it-dash1-prd.selector.skycdn.it/016a/32559/FHD/skysporttennis/master_stereo.mpd&key_id=0036fb7c564c4eb99e310f5fa82ab2f2&key=647f07b6858a669456e73ca103b4c2c0&api_password=mfp
+#EXTINF:-1 tvg-id="" tvg-name="nbahd " tvg-logo="" group-title="Altro", nbahd (Hd)
+https://elwood65-vadase.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//linear308-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master_stereo.mpd&key_id=00364eac2ffee337640e39682439b540&key=0960172d9000c470ade0658bd36c1d53&api_password=mfp
+#EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky UNO " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky", Sky UNO (Hd)
+https://elwood65-vadase.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//linear313-it-dash1-prd.selector.skycdn.it/016a/32477/FHD/skyuno/master_stereo.mpd&key_id=003610b8556000936e48061cdb4ee11a&key=2cd6bcc2160aa6ec048e5a5f7a0f73c8&api_password=mfp
+#EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky UNO " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky", Sky UNO (H)
+https://elwood65-vadase.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//linear313-it-dash1-prd.selector.skycdn.it/016a/32477/FHD/skyuno/master_stereo.mpd&key_id=003610b8556000936e48061cdb4ee11a&key=2cd6bcc2160aa6ec048e5a5f7a0f73c8&api_password=mfp
+#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="EuroSport 1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", EuroSport 1 (H)
+https://elwood65-vadase.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//linear311-it-dash1-prd.selector.skycdn.it/016a/313073/FHD/eurosport/master_stereo.mpd&key_id=0036bb3fa7e6f2c334d7cba5c28b6caf&key=217fa35739cd68e90b2cd23322c01312&api_password=mfp
+#EXTINF:-1 tvg-id="" tvg-name="euro2 " tvg-logo="" group-title="Altro", euro2 (H)
+https://elwood65-vadase.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//linear312-it-dash1-prd.selector.skycdn.it/016a/31150/FHD/eurosport2/master_stereo.mpd&key_id=003670a7034342a4a07c91173818c61c&key=7b90055c1a1ea34d9090e9ebf6c4db8a&api_password=mfp
 #EXTINF:-1 tvg-id="World Cup Qualifying - Norway vs Italy" tvg-name="20:45 World Cup Qualifying : Norway vs Italy - 06/06/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-06/1749208413_norway-x-italy.png" group-title="Soccer", SuperSport Premier League
 https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true&api_password=shadow65
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Musetti L. vs Alcaraz C." tvg-name="14:30 WTA - ROLAND GARROS : Musetti L. vs Alcaraz C. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - ROLAND GARROS", Tennis Stream 16
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Musetti L. vs Alcaraz C." tvg-name="14:30 ATP - ROLAND GARROS : Musetti L. vs Alcaraz C. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - ROLAND GARROS", Tennis Stream 16
 https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=shadow65
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Musetti L. vs Alcaraz C." tvg-name="14:30 WTA - ROLAND GARROS : Musetti L. vs Alcaraz C. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - ROLAND GARROS", Tennis Stream 1
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Musetti L. vs Alcaraz C." tvg-name="14:30 ATP - ROLAND GARROS : Musetti L. vs Alcaraz C. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - ROLAND GARROS", Tennis Stream 1
 https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=shadow65
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Musetti L. vs Alcaraz C." tvg-name="14:30 WTA - ROLAND GARROS : Musetti L. vs Alcaraz C. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - ROLAND GARROS", Tennis Stream 21
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Musetti L. vs Alcaraz C." tvg-name="14:30 ATP - ROLAND GARROS : Musetti L. vs Alcaraz C. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - ROLAND GARROS", Tennis Stream 21
 https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=shadow65
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Musetti L. vs Alcaraz C." tvg-name="14:30 WTA - ROLAND GARROS : Musetti L. vs Alcaraz C. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - ROLAND GARROS", Tennis Stream 6
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Musetti L. vs Alcaraz C." tvg-name="14:30 ATP - ROLAND GARROS : Musetti L. vs Alcaraz C. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - ROLAND GARROS", Tennis Stream 6
 https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=shadow65
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Musetti L. vs Alcaraz C." tvg-name="14:30 WTA - ROLAND GARROS : Musetti L. vs Alcaraz C. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - ROLAND GARROS", Tennis Stream 7
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Musetti L. vs Alcaraz C." tvg-name="14:30 ATP - ROLAND GARROS : Musetti L. vs Alcaraz C. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - ROLAND GARROS", Tennis Stream 7
 https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=shadow65
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Musetti L. vs Alcaraz C." tvg-name="14:30 WTA - ROLAND GARROS : Musetti L. vs Alcaraz C. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - ROLAND GARROS", Tennis Stream 5
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Musetti L. vs Alcaraz C." tvg-name="14:30 ATP - ROLAND GARROS : Musetti L. vs Alcaraz C. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - ROLAND GARROS", Tennis Stream 5
 https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=shadow65
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Sinner J. vs Djokovic N." tvg-name="19:00 WTA - ROLAND GARROS : Sinner J. vs Djokovic N. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - ROLAND GARROS", Tennis Stream 16
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Djokovic N." tvg-name="19:00 ATP - ROLAND GARROS : Sinner J. vs Djokovic N. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - ROLAND GARROS", Tennis Stream 16
 https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=shadow65
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Sinner J. vs Djokovic N." tvg-name="19:00 WTA - ROLAND GARROS : Sinner J. vs Djokovic N. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - ROLAND GARROS", Tennis Stream 1
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Djokovic N." tvg-name="19:00 ATP - ROLAND GARROS : Sinner J. vs Djokovic N. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - ROLAND GARROS", Tennis Stream 1
 https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=shadow65
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Sinner J. vs Djokovic N." tvg-name="19:00 WTA - ROLAND GARROS : Sinner J. vs Djokovic N. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - ROLAND GARROS", Tennis Stream 21
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Djokovic N." tvg-name="19:00 ATP - ROLAND GARROS : Sinner J. vs Djokovic N. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - ROLAND GARROS", Tennis Stream 21
 https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=shadow65
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Sinner J. vs Djokovic N." tvg-name="19:00 WTA - ROLAND GARROS : Sinner J. vs Djokovic N. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - ROLAND GARROS", Tennis Stream 6
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Djokovic N." tvg-name="19:00 ATP - ROLAND GARROS : Sinner J. vs Djokovic N. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - ROLAND GARROS", Tennis Stream 6
 https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=shadow65
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Sinner J. vs Djokovic N." tvg-name="19:00 WTA - ROLAND GARROS : Sinner J. vs Djokovic N. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - ROLAND GARROS", Tennis Stream 7
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Djokovic N." tvg-name="19:00 ATP - ROLAND GARROS : Sinner J. vs Djokovic N. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - ROLAND GARROS", Tennis Stream 7
 https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=shadow65
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Sinner J. vs Djokovic N." tvg-name="19:00 WTA - ROLAND GARROS : Sinner J. vs Djokovic N. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - ROLAND GARROS", Tennis Stream 5
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Djokovic N." tvg-name="19:00 ATP - ROLAND GARROS : Sinner J. vs Djokovic N. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - ROLAND GARROS", Tennis Stream 5
 https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=shadow65
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Sinner J. vs Djokovic N." tvg-name="19:00 WTA - ROLAND GARROS : Sinner J. vs Djokovic N. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - ROLAND GARROS", Tennis Stream 8
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Djokovic N." tvg-name="19:00 ATP - ROLAND GARROS : Sinner J. vs Djokovic N. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - ROLAND GARROS", Tennis Stream 8
 https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=shadow65
 
 #EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Salisbury J./Skupski N. vs Harrison C./King E." tvg-name="12:30 ATP DOUBLES - ROLAND GARROS : Salisbury J./Skupski N. vs Harrison C./King E. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP DOUBLES - ROLAND GARROS", Tennis Stream 2
@@ -2959,22 +3003,22 @@ https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.d
 #EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Salisbury J./Skupski N. vs Harrison C./King E." tvg-name="12:30 ATP DOUBLES - ROLAND GARROS : Salisbury J./Skupski N. vs Harrison C./King E. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP DOUBLES - ROLAND GARROS", Tennis Stream 22
 https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=shadow65
 
-#EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Danilina A./Krunic A. vs Eikeri U./Hozumi E." tvg-name="13:30 MIXED DOUBLES - ROLAND GARROS : Danilina A./Krunic A. vs Eikeri U./Hozumi E. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis MIXED DOUBLES - ROLAND GARROS", Tennis Stream 3
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Danilina A./Krunic A. vs Eikeri U./Hozumi E." tvg-name="13:30 WTA DOUBLES - ROLAND GARROS : Danilina A./Krunic A. vs Eikeri U./Hozumi E. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA DOUBLES - ROLAND GARROS", Tennis Stream 3
 https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=shadow65
 
-#EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Danilina A./Krunic A. vs Eikeri U./Hozumi E." tvg-name="13:30 MIXED DOUBLES - ROLAND GARROS : Danilina A./Krunic A. vs Eikeri U./Hozumi E. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis MIXED DOUBLES - ROLAND GARROS", Tennis Stream 22
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Danilina A./Krunic A. vs Eikeri U./Hozumi E." tvg-name="13:30 WTA DOUBLES - ROLAND GARROS : Danilina A./Krunic A. vs Eikeri U./Hozumi E. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA DOUBLES - ROLAND GARROS", Tennis Stream 22
 https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=shadow65
 
-#EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Danilina A./Krunic A. vs Eikeri U./Hozumi E." tvg-name="13:30 MIXED DOUBLES - ROLAND GARROS : Danilina A./Krunic A. vs Eikeri U./Hozumi E. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis MIXED DOUBLES - ROLAND GARROS", Tennis Stream 23
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Danilina A./Krunic A. vs Eikeri U./Hozumi E." tvg-name="13:30 WTA DOUBLES - ROLAND GARROS : Danilina A./Krunic A. vs Eikeri U./Hozumi E. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA DOUBLES - ROLAND GARROS", Tennis Stream 23
 https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=shadow65
 
-#EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Andreeva M./Shnaider D. vs Errani S./Paolini J." tvg-name="15:00 MIXED DOUBLES - ROLAND GARROS : Andreeva M./Shnaider D. vs Errani S./Paolini J. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis MIXED DOUBLES - ROLAND GARROS", Tennis Stream 3
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Andreeva M./Shnaider D. vs Errani S./Paolini J." tvg-name="15:00 WTA DOUBLES - ROLAND GARROS : Andreeva M./Shnaider D. vs Errani S./Paolini J. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA DOUBLES - ROLAND GARROS", Tennis Stream 3
 https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=shadow65
 
-#EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Andreeva M./Shnaider D. vs Errani S./Paolini J." tvg-name="15:00 MIXED DOUBLES - ROLAND GARROS : Andreeva M./Shnaider D. vs Errani S./Paolini J. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis MIXED DOUBLES - ROLAND GARROS", Tennis Stream 22
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Andreeva M./Shnaider D. vs Errani S./Paolini J." tvg-name="15:00 WTA DOUBLES - ROLAND GARROS : Andreeva M./Shnaider D. vs Errani S./Paolini J. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA DOUBLES - ROLAND GARROS", Tennis Stream 22
 https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=shadow65
 
-#EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Andreeva M./Shnaider D. vs Errani S./Paolini J." tvg-name="15:00 MIXED DOUBLES - ROLAND GARROS : Andreeva M./Shnaider D. vs Errani S./Paolini J. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis MIXED DOUBLES - ROLAND GARROS", Tennis Stream 23
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Andreeva M./Shnaider D. vs Errani S./Paolini J." tvg-name="15:00 WTA DOUBLES - ROLAND GARROS : Andreeva M./Shnaider D. vs Errani S./Paolini J. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA DOUBLES - ROLAND GARROS", Tennis Stream 23
 https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=shadow65
 
 #EXTINF:-1 tvg-id="2025 Roland-Garros Tennis Ladies Doubles - First Semifinal - 2025 Roland-Garros Tennis Ladies Doubles - First Semifinal" tvg-name="11:00 2025 Roland-Garros Tennis Ladies Doubles - First Semifinal - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 1 UK
@@ -3361,6 +3405,9 @@ https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.d
 #EXTINF:-1 tvg-id="Men's basketball - Anwil Włocławek vs Legia Warsaw" tvg-name="19:50 Men's basketball: Anwil Włocławek vs Legia Warsaw - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Polsat Sport 2 Poland
 https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-50.php&redirect_stream=true&api_password=shadow65
 
+#EXTINF:-1 tvg-id="GREEK LEAGUE - Olympiacos vs Panathinaikos" tvg-name="20:00 GREEK LEAGUE : Olympiacos vs Panathinaikos - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport klub HD Croatia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-453.php&redirect_stream=true&api_password=shadow65
+
 #EXTINF:-1 tvg-id="Lega Basket Serie A - Mpresia vs Trapani" tvg-name="20:45 Lega Basket Serie A : Mpresia vs Trapani - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Eurosport 2 IT
 https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=shadow65
 
@@ -3501,4 +3548,772 @@ https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.d
 
 #EXTINF:-1 tvg-id="AVP Beach Volleyball League Week 2 - San Diego - AVP Beach Volleyball League Week 2 - San Diego" tvg-name="03:00 AVP Beach Volleyball League Week 2 - San Diego - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", CBS Sports Network USA
 https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-308.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Bosnia and Herzegovina vs San Marino" tvg-name="15:00 World Cup Qualifying : Bosnia and Herzegovina vs San Marino - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Andorra vs England" tvg-name="18:00 World Cup Qualifying : Andorra vs England - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sports Premier League Greece
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-599.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Andorra vs England" tvg-name="18:00 World Cup Qualifying : Andorra vs England - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Netherlands" tvg-name="20:45 World Cup Qualifying : Finland vs Netherlands - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Brazil - Serie B - América Mineiro vs Ferroviária" tvg-name="21:00 Brazil - Serie B : América Mineiro vs Ferroviária - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Brazil
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-81.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Pescara vs Ternana" tvg-name="21:15 Italy - Serie C : Pescara vs Ternana - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RAI 2 IT
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-851.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Pescara vs Ternana" tvg-name="21:15 Italy - Serie C : Pescara vs Ternana - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 251 IT
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-14.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Pescara vs Ternana" tvg-name="21:15 Italy - Serie C : Pescara vs Ternana - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Uno IT
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-461.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Pescara vs Ternana" tvg-name="21:15 Italy - Serie C : Pescara vs Ternana - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Canadian Premier League - Pacific vs Atlético Ottawa" tvg-name="00:00 Canadian Premier League : Pacific vs Atlético Ottawa - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Fox Sports 2 USA
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-758.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Brazil - Serie B - Avaí vs CRB" tvg-name="01:30 Brazil - Serie B : Avaí vs CRB - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Brazil
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-81.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Sabalenka A. vs Gauff C." tvg-name="15:00 WTA - ROLAND GARROS : Sabalenka A. vs Gauff C. - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - ROLAND GARROS", Tennis Stream 16
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Sabalenka A. vs Gauff C." tvg-name="15:00 WTA - ROLAND GARROS : Sabalenka A. vs Gauff C. - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - ROLAND GARROS", Tennis Stream 1
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Sabalenka A. vs Gauff C." tvg-name="15:00 WTA - ROLAND GARROS : Sabalenka A. vs Gauff C. - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - ROLAND GARROS", Tennis Stream 21
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Sabalenka A. vs Gauff C." tvg-name="15:00 WTA - ROLAND GARROS : Sabalenka A. vs Gauff C. - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - ROLAND GARROS", Tennis Stream 5
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Granollers M./Zeballos H. vs Salisbury J./Skupski N." tvg-name="16:30 ATP DOUBLES - ROLAND GARROS : Granollers M./Zeballos H. vs Salisbury J./Skupski N. - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP DOUBLES - ROLAND GARROS", Tennis Stream 16
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Granollers M./Zeballos H. vs Salisbury J./Skupski N." tvg-name="16:30 ATP DOUBLES - ROLAND GARROS : Granollers M./Zeballos H. vs Salisbury J./Skupski N. - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP DOUBLES - ROLAND GARROS", Tennis Stream 1
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Granollers M./Zeballos H. vs Salisbury J./Skupski N." tvg-name="16:30 ATP DOUBLES - ROLAND GARROS : Granollers M./Zeballos H. vs Salisbury J./Skupski N. - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP DOUBLES - ROLAND GARROS", Tennis Stream 21
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Granollers M./Zeballos H. vs Salisbury J./Skupski N." tvg-name="16:30 ATP DOUBLES - ROLAND GARROS : Granollers M./Zeballos H. vs Salisbury J./Skupski N. - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP DOUBLES - ROLAND GARROS", Tennis Stream 5
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Final - Roland-Garros Women | Singles | Final" tvg-name="15:00 Roland-Garros Women | Singles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 1 UK
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-31.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Final - Roland-Garros Women | Singles | Final" tvg-name="15:00 Roland-Garros Women | Singles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 4 UK
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-34.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Final - Roland-Garros Women | Singles | Final" tvg-name="15:00 Roland-Garros Women | Singles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT USA
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-338.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Final - Roland-Garros Women | Singles | Final" tvg-name="15:00 Roland-Garros Women | Singles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", truTV USA
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-341.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Final - Roland-Garros Women | Singles | Final" tvg-name="15:00 Roland-Garros Women | Singles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN3
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-113.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Final - Roland-Garros Women | Singles | Final" tvg-name="15:00 Roland-Garros Women | Singles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN4
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-114.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Final - Roland-Garros Women | Singles | Final" tvg-name="15:00 Roland-Garros Women | Singles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN5
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-115.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Final - Roland-Garros Women | Singles | Final" tvg-name="15:00 Roland-Garros Women | Singles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 5 UK
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-211.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Final - Roland-Garros Women | Singles | Final" tvg-name="15:00 Roland-Garros Women | Singles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 6 UK
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-212.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Final - Roland-Garros Women | Singles | Final" tvg-name="15:00 Roland-Garros Women | Singles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 7 UK
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-213.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Final - Roland-Garros Women | Singles | Final" tvg-name="15:00 Roland-Garros Women | Singles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 8 UK
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-214.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Final - Roland-Garros Women | Singles | Final" tvg-name="15:00 Roland-Garros Women | Singles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", France 3
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-951.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Final - Roland-Garros Women | Singles | Final" tvg-name="15:00 Roland-Garros Women | Singles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport 1 NZ
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-588.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Final - Roland-Garros Women | Singles | Final" tvg-name="15:00 Roland-Garros Women | Singles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport 3 NZ
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-590.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Final - Roland-Garros Women | Singles | Final" tvg-name="15:00 Roland-Garros Women | Singles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SONY TEN 1
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-885.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Final - Roland-Garros Women | Singles | Final" tvg-name="15:00 Roland-Garros Women | Singles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SONY TEN 2
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-886.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Final - Roland-Garros Women | Singles | Final" tvg-name="15:00 Roland-Garros Women | Singles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SONY TEN 3
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-887.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Final - Roland-Garros Women | Singles | Final" tvg-name="15:00 Roland-Garros Women | Singles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-713.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Final - Roland-Garros Women | Singles | Final" tvg-name="15:00 Roland-Garros Women | Singles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 1 Malaysia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-712.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Final - Roland-Garros Women | Singles | Final" tvg-name="15:00 Roland-Garros Women | Singles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 3 Malaysia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-714.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Final - Roland-Garros Women | Singles | Final" tvg-name="15:00 Roland-Garros Women | Singles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Poland
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-58.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Final - Roland-Garros Women | Singles | Final" tvg-name="15:00 Roland-Garros Women | Singles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Spain
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-524.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Final - Roland-Garros Women | Singles | Final" tvg-name="15:00 Roland-Garros Women | Singles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-773.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Final - Roland-Garros Women | Singles | Final" tvg-name="15:00 Roland-Garros Women | Singles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 1 SE
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-231.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Final - Roland-Garros Women | Singles | Final" tvg-name="15:00 Roland-Garros Women | Singles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-232.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Final - Roland-Garros Women | Singles | Final" tvg-name="15:00 Roland-Garros Women | Singles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Italy
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Final - Roland-Garros Women | Singles | Final" tvg-name="15:00 Roland-Garros Women | Singles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-773.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Final - Roland-Garros Women | Singles | Final" tvg-name="15:00 Roland-Garros Women | Singles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Greece
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-42.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Final - Roland-Garros Women | Singles | Final" tvg-name="15:00 Roland-Garros Women | Singles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 Argentina
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-150.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Final - Roland-Garros Women | Singles | Final" tvg-name="15:00 Roland-Garros Women | Singles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-232.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Final - Roland-Garros Women | Singles | Final" tvg-name="15:00 Roland-Garros Women | Singles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 Brazil
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-82.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Men | Doubles | Final - Roland-Garros Men | Doubles | Final" tvg-name="18:30 Roland-Garros Men | Doubles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 1 UK
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-31.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Men | Doubles | Final - Roland-Garros Men | Doubles | Final" tvg-name="18:30 Roland-Garros Men | Doubles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 4 UK
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-34.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Men | Doubles | Final - Roland-Garros Men | Doubles | Final" tvg-name="18:30 Roland-Garros Men | Doubles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT USA
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-338.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Men | Doubles | Final - Roland-Garros Men | Doubles | Final" tvg-name="18:30 Roland-Garros Men | Doubles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", truTV USA
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-341.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Men | Doubles | Final - Roland-Garros Men | Doubles | Final" tvg-name="18:30 Roland-Garros Men | Doubles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN3
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-113.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Men | Doubles | Final - Roland-Garros Men | Doubles | Final" tvg-name="18:30 Roland-Garros Men | Doubles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN4
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-114.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Men | Doubles | Final - Roland-Garros Men | Doubles | Final" tvg-name="18:30 Roland-Garros Men | Doubles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN5
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-115.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Men | Doubles | Final - Roland-Garros Men | Doubles | Final" tvg-name="18:30 Roland-Garros Men | Doubles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 5 UK
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-211.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Men | Doubles | Final - Roland-Garros Men | Doubles | Final" tvg-name="18:30 Roland-Garros Men | Doubles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 6 UK
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-212.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Men | Doubles | Final - Roland-Garros Men | Doubles | Final" tvg-name="18:30 Roland-Garros Men | Doubles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 7 UK
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-213.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Men | Doubles | Final - Roland-Garros Men | Doubles | Final" tvg-name="18:30 Roland-Garros Men | Doubles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 8 UK
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-214.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Men | Doubles | Final - Roland-Garros Men | Doubles | Final" tvg-name="18:30 Roland-Garros Men | Doubles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", France 3
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-951.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Men | Doubles | Final - Roland-Garros Men | Doubles | Final" tvg-name="18:30 Roland-Garros Men | Doubles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport 1 NZ
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-588.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Men | Doubles | Final - Roland-Garros Men | Doubles | Final" tvg-name="18:30 Roland-Garros Men | Doubles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport 3 NZ
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-590.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Men | Doubles | Final - Roland-Garros Men | Doubles | Final" tvg-name="18:30 Roland-Garros Men | Doubles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SONY TEN 1
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-885.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Men | Doubles | Final - Roland-Garros Men | Doubles | Final" tvg-name="18:30 Roland-Garros Men | Doubles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SONY TEN 2
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-886.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Men | Doubles | Final - Roland-Garros Men | Doubles | Final" tvg-name="18:30 Roland-Garros Men | Doubles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SONY TEN 3
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-887.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Men | Doubles | Final - Roland-Garros Men | Doubles | Final" tvg-name="18:30 Roland-Garros Men | Doubles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-713.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Men | Doubles | Final - Roland-Garros Men | Doubles | Final" tvg-name="18:30 Roland-Garros Men | Doubles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 1 Malaysia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-712.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Men | Doubles | Final - Roland-Garros Men | Doubles | Final" tvg-name="18:30 Roland-Garros Men | Doubles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 3 Malaysia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-714.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Men | Doubles | Final - Roland-Garros Men | Doubles | Final" tvg-name="18:30 Roland-Garros Men | Doubles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Poland
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-58.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Men | Doubles | Final - Roland-Garros Men | Doubles | Final" tvg-name="18:30 Roland-Garros Men | Doubles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Spain
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-524.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Men | Doubles | Final - Roland-Garros Men | Doubles | Final" tvg-name="18:30 Roland-Garros Men | Doubles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-773.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Men | Doubles | Final - Roland-Garros Men | Doubles | Final" tvg-name="18:30 Roland-Garros Men | Doubles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 1 SE
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-231.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Men | Doubles | Final - Roland-Garros Men | Doubles | Final" tvg-name="18:30 Roland-Garros Men | Doubles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-232.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Men | Doubles | Final - Roland-Garros Men | Doubles | Final" tvg-name="18:30 Roland-Garros Men | Doubles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Italy
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Men | Doubles | Final - Roland-Garros Men | Doubles | Final" tvg-name="18:30 Roland-Garros Men | Doubles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-773.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Men | Doubles | Final - Roland-Garros Men | Doubles | Final" tvg-name="18:30 Roland-Garros Men | Doubles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Greece
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-42.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Men | Doubles | Final - Roland-Garros Men | Doubles | Final" tvg-name="18:30 Roland-Garros Men | Doubles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 Argentina
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-150.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Men | Doubles | Final - Roland-Garros Men | Doubles | Final" tvg-name="18:30 Roland-Garros Men | Doubles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-232.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Roland-Garros Men | Doubles | Final - Roland-Garros Men | Doubles | Final" tvg-name="18:30 Roland-Garros Men | Doubles | Final - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 Brazil
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-82.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Moto 3 - Greek Grand Prix of Spain Free Practice 2" tvg-name="08:35 Moto 3 : Greek Grand Prix of Spain Free Practice 2 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-575.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Moto 3 - Greek Grand Prix of Spain Free Practice 2" tvg-name="08:35 Moto 3 : Greek Grand Prix of Spain Free Practice 2 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-271.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 7 | Day 3 - WRC Rally Italy | Special Stage 7 | Day 3" tvg-name="09:05 WRC Rally Italy | Special Stage 7 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Rally Tv
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-607.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 7 | Day 3 - WRC Rally Italy | Special Stage 7 | Day 3" tvg-name="09:05 WRC Rally Italy | Special Stage 7 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 5 UK
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-211.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 7 | Day 3 - WRC Rally Italy | Special Stage 7 | Day 3" tvg-name="09:05 WRC Rally Italy | Special Stage 7 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 3 UK
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-33.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 7 | Day 3 - WRC Rally Italy | Special Stage 7 | Day 3" tvg-name="09:05 WRC Rally Italy | Special Stage 7 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport France
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-122.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 7 | Day 3 - WRC Rally Italy | Special Stage 7 | Day 3" tvg-name="09:05 WRC Rally Italy | Special Stage 7 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport TV2 Portugal
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-74.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 7 | Day 3 - WRC Rally Italy | Special Stage 7 | Day 3" tvg-name="09:05 WRC Rally Italy | Special Stage 7 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-274.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 7 | Day 3 - WRC Rally Italy | Special Stage 7 | Day 3" tvg-name="09:05 WRC Rally Italy | Special Stage 7 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Motowizja Poland
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-563.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 7 | Day 3 - WRC Rally Italy | Special Stage 7 | Day 3" tvg-name="09:05 WRC Rally Italy | Special Stage 7 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TV4 Motor
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-702.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 7 | Day 3 - WRC Rally Italy | Special Stage 7 | Day 3" tvg-name="09:05 WRC Rally Italy | Special Stage 7 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", beIN Sports 1 Malaysia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-712.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 7 | Day 3 - WRC Rally Italy | Special Stage 7 | Day 3" tvg-name="09:05 WRC Rally Italy | Special Stage 7 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cytavision Sports 6
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-916.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 7 | Day 3 - WRC Rally Italy | Special Stage 7 | Day 3" tvg-name="09:05 WRC Rally Italy | Special Stage 7 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 7 Greece
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-628.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Qualifying" tvg-name="10:00 MotoGP : Greek Grand Prix of Spain Qualifying - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 2 UK
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-32.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Qualifying" tvg-name="10:00 MotoGP : Greek Grand Prix of Spain Qualifying - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-575.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Qualifying" tvg-name="10:00 MotoGP : Greek Grand Prix of Spain Qualifying - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-271.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Qualifying" tvg-name="10:00 MotoGP : Greek Grand Prix of Spain Qualifying - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Mix DE
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-557.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Qualifying" tvg-name="10:00 MotoGP : Greek Grand Prix of Spain Qualifying - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Top Event DE
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-556.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Qualifying" tvg-name="10:00 MotoGP : Greek Grand Prix of Spain Qualifying - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN1 ES
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-445.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Qualifying" tvg-name="10:00 MotoGP : Greek Grand Prix of Spain Qualifying - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport 360
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-464.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Qualifying" tvg-name="10:00 MotoGP : Greek Grand Prix of Spain Qualifying - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport TV4 Portugal
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-289.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Qualifying" tvg-name="10:00 MotoGP : Greek Grand Prix of Spain Qualifying - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN Argentina
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-149.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Qualifying" tvg-name="10:00 MotoGP : Greek Grand Prix of Spain Qualifying - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 5 Greece
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-626.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Qualifying" tvg-name="10:00 MotoGP : Greek Grand Prix of Spain Qualifying - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Arena 2 Premium Serbia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-135.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Qualifying" tvg-name="10:00 MotoGP : Greek Grand Prix of Spain Qualifying - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport Klub 3 Croatia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Qualifying" tvg-name="10:00 MotoGP : Greek Grand Prix of Spain Qualifying - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Ziggo Sport 1 NL
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-393.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Qualifying" tvg-name="10:00 MotoGP : Greek Grand Prix of Spain Qualifying - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", MAX Sport 2 Bulgaria
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-473.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Qualifying" tvg-name="10:00 MotoGP : Greek Grand Prix of Spain Qualifying - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", V Sport Motor Sweden
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-272.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Qualifying" tvg-name="10:00 MotoGP : Greek Grand Prix of Spain Qualifying - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN4 Brazil
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-85.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Qualifying" tvg-name="10:00 MotoGP : Greek Grand Prix of Spain Qualifying - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport 5 Live Israel
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-146.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 8 | Day 3 - WRC Rally Italy | Special Stage 8 | Day 3" tvg-name="10:15 WRC Rally Italy | Special Stage 8 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Rally Tv
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-607.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 8 | Day 3 - WRC Rally Italy | Special Stage 8 | Day 3" tvg-name="10:15 WRC Rally Italy | Special Stage 8 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 5 UK
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-211.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 8 | Day 3 - WRC Rally Italy | Special Stage 8 | Day 3" tvg-name="10:15 WRC Rally Italy | Special Stage 8 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 3 UK
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-33.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 8 | Day 3 - WRC Rally Italy | Special Stage 8 | Day 3" tvg-name="10:15 WRC Rally Italy | Special Stage 8 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport France
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-122.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 8 | Day 3 - WRC Rally Italy | Special Stage 8 | Day 3" tvg-name="10:15 WRC Rally Italy | Special Stage 8 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport TV2 Portugal
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-74.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 8 | Day 3 - WRC Rally Italy | Special Stage 8 | Day 3" tvg-name="10:15 WRC Rally Italy | Special Stage 8 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-274.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 8 | Day 3 - WRC Rally Italy | Special Stage 8 | Day 3" tvg-name="10:15 WRC Rally Italy | Special Stage 8 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Motowizja Poland
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-563.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 8 | Day 3 - WRC Rally Italy | Special Stage 8 | Day 3" tvg-name="10:15 WRC Rally Italy | Special Stage 8 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TV4 Motor
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-702.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 8 | Day 3 - WRC Rally Italy | Special Stage 8 | Day 3" tvg-name="10:15 WRC Rally Italy | Special Stage 8 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 7 Greece
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-628.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Moto 2 - Greek Grand Prix of Spain Free Practice 2" tvg-name="10:45 Moto 2 : Greek Grand Prix of Spain Free Practice 2 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-575.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Moto 2 - Greek Grand Prix of Spain Free Practice 2" tvg-name="10:45 Moto 2 : Greek Grand Prix of Spain Free Practice 2 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-271.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 9 | Day 3 - WRC Rally Italy | Special Stage 9 | Day 3" tvg-name="11:30 WRC Rally Italy | Special Stage 9 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Rally Tv
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-607.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 9 | Day 3 - WRC Rally Italy | Special Stage 9 | Day 3" tvg-name="11:30 WRC Rally Italy | Special Stage 9 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 5 UK
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-211.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 9 | Day 3 - WRC Rally Italy | Special Stage 9 | Day 3" tvg-name="11:30 WRC Rally Italy | Special Stage 9 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 3 UK
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-33.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 9 | Day 3 - WRC Rally Italy | Special Stage 9 | Day 3" tvg-name="11:30 WRC Rally Italy | Special Stage 9 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport France
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-122.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 9 | Day 3 - WRC Rally Italy | Special Stage 9 | Day 3" tvg-name="11:30 WRC Rally Italy | Special Stage 9 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport TV2 Portugal
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-74.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 9 | Day 3 - WRC Rally Italy | Special Stage 9 | Day 3" tvg-name="11:30 WRC Rally Italy | Special Stage 9 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-274.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 9 | Day 3 - WRC Rally Italy | Special Stage 9 | Day 3" tvg-name="11:30 WRC Rally Italy | Special Stage 9 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Motowizja Poland
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-563.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 9 | Day 3 - WRC Rally Italy | Special Stage 9 | Day 3" tvg-name="11:30 WRC Rally Italy | Special Stage 9 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TV4 Motor
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-702.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 9 | Day 3 - WRC Rally Italy | Special Stage 9 | Day 3" tvg-name="11:30 WRC Rally Italy | Special Stage 9 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 7 Greece
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-628.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Moto 3 - Greek Grand Prix of Spain Qualifying" tvg-name="12:45 Moto 3 : Greek Grand Prix of Spain Qualifying - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-575.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Moto 3 - Greek Grand Prix of Spain Qualifying" tvg-name="12:45 Moto 3 : Greek Grand Prix of Spain Qualifying - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-271.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="World Championship 8 Hours of Spa-Francorchamps | Race - World Championship 8 Hours of Spa-Francorchamps | Race" tvg-name="13:00 World Championship 8 Hours of Spa-Francorchamps | Race - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", EuroSport 1 Italy
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Moto 2 - Greek Grand Prix of Spain Qualifying" tvg-name="13:40 Moto 2 : Greek Grand Prix of Spain Qualifying - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-575.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Moto 2 - Greek Grand Prix of Spain Qualifying" tvg-name="13:40 Moto 2 : Greek Grand Prix of Spain Qualifying - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-271.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Ferrari Challenge Europe Coppa Shell - Brno Circuit in the Czechia - Ferrari Challenge Europe Coppa Shell - Brno Circuit in the Czechia" tvg-name="13:50 Ferrari Challenge Europe Coppa Shell - Brno Circuit in the Czechia - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-60.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Sprint Race" tvg-name="14:45 MotoGP : Greek Grand Prix of Spain Sprint Race - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 2 UK
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-32.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Sprint Race" tvg-name="14:45 MotoGP : Greek Grand Prix of Spain Sprint Race - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Fox Sports 1 USA
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-39.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Sprint Race" tvg-name="14:45 MotoGP : Greek Grand Prix of Spain Sprint Race - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-575.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Sprint Race" tvg-name="14:45 MotoGP : Greek Grand Prix of Spain Sprint Race - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-271.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Sprint Race" tvg-name="14:45 MotoGP : Greek Grand Prix of Spain Sprint Race - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Mix DE
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-557.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Sprint Race" tvg-name="14:45 MotoGP : Greek Grand Prix of Spain Sprint Race - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Top Event DE
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-556.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Sprint Race" tvg-name="14:45 MotoGP : Greek Grand Prix of Spain Sprint Race - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN1 ES
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-445.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Sprint Race" tvg-name="14:45 MotoGP : Greek Grand Prix of Spain Sprint Race - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport 360
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-464.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Sprint Race" tvg-name="14:45 MotoGP : Greek Grand Prix of Spain Sprint Race - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport TV4 Portugal
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-289.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Sprint Race" tvg-name="14:45 MotoGP : Greek Grand Prix of Spain Sprint Race - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN Argentina
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-149.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Sprint Race" tvg-name="14:45 MotoGP : Greek Grand Prix of Spain Sprint Race - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 5 Greece
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-626.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Sprint Race" tvg-name="14:45 MotoGP : Greek Grand Prix of Spain Sprint Race - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cytavision Sports 6
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-916.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Sprint Race" tvg-name="14:45 MotoGP : Greek Grand Prix of Spain Sprint Race - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport Klub 3 Croatia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Sprint Race" tvg-name="14:45 MotoGP : Greek Grand Prix of Spain Sprint Race - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Ziggo Sport 1 NL
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-393.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Sprint Race" tvg-name="14:45 MotoGP : Greek Grand Prix of Spain Sprint Race - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", MAX Sport 2 Bulgaria
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-473.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Sprint Race" tvg-name="14:45 MotoGP : Greek Grand Prix of Spain Sprint Race - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Arena 2 Premium Serbia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-135.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Sprint Race" tvg-name="14:45 MotoGP : Greek Grand Prix of Spain Sprint Race - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN4 Brazil
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-85.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Sprint Race" tvg-name="14:45 MotoGP : Greek Grand Prix of Spain Sprint Race - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", V Sport Motor Sweden
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-272.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Spain Sprint Race" tvg-name="14:45 MotoGP : Greek Grand Prix of Spain Sprint Race - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport 5 Live Israel
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-146.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Ferrari Challenge Europe Coppa Shell - Brno Circuit in the Czechia - Ferrari Challenge Europe Coppa Shell - Brno Circuit in the Czechia" tvg-name="15:00 Ferrari Challenge Europe Coppa Shell - Brno Circuit in the Czechia - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-60.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 9 | Day 10 - WRC Rally Italy | Special Stage 9 | Day 10" tvg-name="15:00 WRC Rally Italy | Special Stage 9 | Day 10 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Rally Tv
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-607.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 9 | Day 10 - WRC Rally Italy | Special Stage 9 | Day 10" tvg-name="15:00 WRC Rally Italy | Special Stage 9 | Day 10 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 5 UK
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-211.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 9 | Day 10 - WRC Rally Italy | Special Stage 9 | Day 10" tvg-name="15:00 WRC Rally Italy | Special Stage 9 | Day 10 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 3 UK
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-33.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 9 | Day 10 - WRC Rally Italy | Special Stage 9 | Day 10" tvg-name="15:00 WRC Rally Italy | Special Stage 9 | Day 10 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport France
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-122.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 9 | Day 10 - WRC Rally Italy | Special Stage 9 | Day 10" tvg-name="15:00 WRC Rally Italy | Special Stage 9 | Day 10 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport TV2 Portugal
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-74.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 9 | Day 10 - WRC Rally Italy | Special Stage 9 | Day 10" tvg-name="15:00 WRC Rally Italy | Special Stage 9 | Day 10 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-274.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 9 | Day 10 - WRC Rally Italy | Special Stage 9 | Day 10" tvg-name="15:00 WRC Rally Italy | Special Stage 9 | Day 10 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Motowizja Poland
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-563.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 9 | Day 10 - WRC Rally Italy | Special Stage 9 | Day 10" tvg-name="15:00 WRC Rally Italy | Special Stage 9 | Day 10 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TV4 Motor
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-702.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 9 | Day 10 - WRC Rally Italy | Special Stage 9 | Day 10" tvg-name="15:00 WRC Rally Italy | Special Stage 9 | Day 10 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Max Sport 1 Bulgaria
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-472.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 9 | Day 10 - WRC Rally Italy | Special Stage 9 | Day 10" tvg-name="15:00 WRC Rally Italy | Special Stage 9 | Day 10 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 7 Greece
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-628.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Red Bull MotoGP Rookies Cup - Aragón Race 1" tvg-name="16:00 Red Bull MotoGP Rookies Cup: Aragón Race 1 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN 3 NL
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-919.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Red Bull MotoGP Rookies Cup - Aragón Race 1" tvg-name="16:00 Red Bull MotoGP Rookies Cup: Aragón Race 1 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cytavision Sports 6
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-916.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="World Championship 8 Hours of Spa | Race - World Championship 8 Hours of Spa | Race" tvg-name="17:00 World Championship 8 Hours of Spa | Race - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", EuroSport 2 Italy
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 12 | Day 3 - WRC Rally Italy | Special Stage 12 | Day 3" tvg-name="17:30 WRC Rally Italy | Special Stage 12 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Rally Tv
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-607.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 12 | Day 3 - WRC Rally Italy | Special Stage 12 | Day 3" tvg-name="17:30 WRC Rally Italy | Special Stage 12 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 5 UK
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-211.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 12 | Day 3 - WRC Rally Italy | Special Stage 12 | Day 3" tvg-name="17:30 WRC Rally Italy | Special Stage 12 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 3 UK
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-33.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 12 | Day 3 - WRC Rally Italy | Special Stage 12 | Day 3" tvg-name="17:30 WRC Rally Italy | Special Stage 12 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport France
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-122.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 12 | Day 3 - WRC Rally Italy | Special Stage 12 | Day 3" tvg-name="17:30 WRC Rally Italy | Special Stage 12 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport TV2 Portugal
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-74.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 12 | Day 3 - WRC Rally Italy | Special Stage 12 | Day 3" tvg-name="17:30 WRC Rally Italy | Special Stage 12 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-274.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 12 | Day 3 - WRC Rally Italy | Special Stage 12 | Day 3" tvg-name="17:30 WRC Rally Italy | Special Stage 12 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Motowizja Poland
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-563.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 12 | Day 3 - WRC Rally Italy | Special Stage 12 | Day 3" tvg-name="17:30 WRC Rally Italy | Special Stage 12 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TV4 Motor
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-702.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 12 | Day 3 - WRC Rally Italy | Special Stage 12 | Day 3" tvg-name="17:30 WRC Rally Italy | Special Stage 12 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Max Sport 1 Bulgaria
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-472.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 12 | Day 3 - WRC Rally Italy | Special Stage 12 | Day 3" tvg-name="17:30 WRC Rally Italy | Special Stage 12 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cytavision Sports 6
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-916.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 12 | Day 3 - WRC Rally Italy | Special Stage 12 | Day 3" tvg-name="17:30 WRC Rally Italy | Special Stage 12 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 7 Greece
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-628.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="SharkWater GFL - Potsdam Royals vs Dusseldorf Panther" tvg-name="18:00 SharkWater GFL : Potsdam Royals vs Dusseldorf Panther - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", DF1 DE
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-16.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="UFL Knockout Stage - Birmingham Stallions vs. Michigan Panthers" tvg-name="21:00 UFL Knockout Stage : Birmingham Stallions vs. Michigan Panthers - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", DF1 DE
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-16.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="NBL - Taranaki Mountainairs vs Otago Nuggets" tvg-name="08:30 NBL : Taranaki Mountainairs vs Otago Nuggets - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sky Sport 5 NZ
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-592.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Basketball 3x3 - City Tour Kolobrzeg" tvg-name="10:45 Basketball 3x3: City Tour Kolobrzeg - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TVP Sport Poland
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-128.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Africa League - CA Petroleos de Luanda vs. Armee Patriotique Rwandaise" tvg-name="16:00 Africa League : CA Petroleos de Luanda vs. Armee Patriotique Rwandaise - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBA TV USA
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-404.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="First FEB (S24/25) - Movistar Estudiantes vs Real Betis" tvg-name="16:55 First FEB (S24/25): Movistar Estudiantes vs Real Betis - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Movistar Sports 3 Spain
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-526.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Men's basketball - Trefl Sopot vs PGE Start Lublin" tvg-name="17:20 Men's basketball: Trefl Sopot vs PGE Start Lublin - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Polsat Sport Poland
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Basket 3x3 Pro Tour - Donji Miholjac" tvg-name="18:00 Basket 3x3 Pro Tour: Donji Miholjac - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 3 Croatia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Slovenian League (M) Playoffs Final (G3) - Krka vs Cedevita Olimpija" tvg-name="18:00 Slovenian League (M) Playoffs Final (G3) : Krka vs Cedevita Olimpija - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 7 Croatia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-25.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="MTS Streetball Winter League - Belgrade" tvg-name="18:00 MTS Streetball Winter League : Belgrade - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 6 Serbia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-941.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="BBL - Ulm vs Wurzburg" tvg-name="18:15 BBL : Ulm vs Wurzburg - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", DYN DE
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-68.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="BBL - Ulm vs Wurzburg" tvg-name="18:15 BBL : Ulm vs Wurzburg - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 2 Serbia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-430.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="BBL - Ulm vs Wurzburg" tvg-name="18:15 BBL : Ulm vs Wurzburg - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Plus Israel
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-145.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Turkish Basketball Super League - Fenerbahçe Beko vs Bahçeşehir Koleji" tvg-name="19:30 Turkish Basketball Super League : Fenerbahçe Beko vs Bahçeşehir Koleji - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Bein Sports 5 Turkey
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-30.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Turkish Basketball Super League - Fenerbahçe Beko vs Bahçeşehir Koleji" tvg-name="19:30 Turkish Basketball Super League : Fenerbahçe Beko vs Bahçeşehir Koleji - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 3 Serbia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-431.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Turkish Basketball Super League - Fenerbahçe Beko vs Bahçeşehir Koleji" tvg-name="19:30 Turkish Basketball Super League : Fenerbahçe Beko vs Bahçeşehir Koleji - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Cosmote Sport 8 Greece
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-629.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Turkish Basketball Super League - Fenerbahçe Beko vs Bahçeşehir Koleji" tvg-name="19:30 Turkish Basketball Super League : Fenerbahçe Beko vs Bahçeşehir Koleji - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 3 Israel
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-142.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="BBL - Bayern Munich vs. MLP Academics Heidelberg" tvg-name="20:00 BBL : Bayern Munich vs. MLP Academics Heidelberg - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", DYN DE
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-76.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="BBL - Bayern Munich vs. MLP Academics Heidelberg" tvg-name="20:00 BBL : Bayern Munich vs. MLP Academics Heidelberg - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub HD Croatia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-453.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="BBL - Bayern Munich vs. MLP Academics Heidelberg" tvg-name="20:00 BBL : Bayern Munich vs. MLP Academics Heidelberg - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", 5 SPORT Israel
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-144.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Lega Basket Serie A - Olimpia Milano vs Virtus Bologna" tvg-name="20:45 Lega Basket Serie A : Olimpia Milano vs Virtus Bologna - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Eurosport 2 IT
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Lega Basket Serie A - Olimpia Milano vs Virtus Bologna" tvg-name="20:45 Lega Basket Serie A : Olimpia Milano vs Virtus Bologna - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Cosmote Sport 8 Greece
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-629.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Lega Basket Serie A - Olimpia Milano vs Virtus Bologna" tvg-name="20:45 Lega Basket Serie A : Olimpia Milano vs Virtus Bologna - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 2 Croatia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-433.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Lega Basket Serie A - Olimpia Milano vs Virtus Bologna" tvg-name="20:45 Lega Basket Serie A : Olimpia Milano vs Virtus Bologna - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 2 Israel
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-141.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Liga ABA Playoffs Final - KK Budućnost VOLI vs KK Partizan Mozzart Bet" tvg-name="21:00 Liga ABA Playoffs Final : KK Budućnost VOLI vs KK Partizan Mozzart Bet - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 1 Croatia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-432.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Liga ABA Playoffs Final - KK Budućnost VOLI vs KK Partizan Mozzart Bet" tvg-name="21:00 Liga ABA Playoffs Final : KK Budućnost VOLI vs KK Partizan Mozzart Bet - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 2 Premium Serbia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-135.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WNBA - Golden State Valkyries W vs Las Vegas Aces W" tvg-name="21:00 WNBA : Golden State Valkyries W vs Las Vegas Aces W - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TNT Sports 3 UK
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-33.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WNBA - Golden State Valkyries W vs Las Vegas Aces W" tvg-name="21:00 WNBA : Golden State Valkyries W vs Las Vegas Aces W - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ABC USA
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-51.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WNBA - Golden State Valkyries W vs Las Vegas Aces W" tvg-name="21:00 WNBA : Golden State Valkyries W vs Las Vegas Aces W - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ABC NY USA
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-766.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WNBA - Golden State Valkyries W vs Las Vegas Aces W" tvg-name="21:00 WNBA : Golden State Valkyries W vs Las Vegas Aces W - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN Deportes
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-375.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WNBA - Golden State Valkyries W vs Las Vegas Aces W" tvg-name="21:00 WNBA : Golden State Valkyries W vs Las Vegas Aces W - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Cosmote Sport 4 Greece
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-625.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WNBA - Golden State Valkyries W vs Las Vegas Aces W" tvg-name="21:00 WNBA : Golden State Valkyries W vs Las Vegas Aces W - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN3 Brazil
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-83.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WNBA - Golden State Valkyries W vs Las Vegas Aces W" tvg-name="21:00 WNBA : Golden State Valkyries W vs Las Vegas Aces W - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TV4 Sportkanalen
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-707.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="NBB - Final: Game 1" tvg-name="22:00 NBB: Final: Game 1 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN2 Brazil
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-82.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WNBA - Indiana Fever vs Chicago Sky" tvg-name="02:00 WNBA : Indiana Fever vs Chicago Sky - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", CBS USA
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-52.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WNBA - Indiana Fever vs Chicago Sky" tvg-name="02:00 WNBA : Indiana Fever vs Chicago Sky - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", CBSNY USA
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-767.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="NBL - Manawatu Jets vs Nelson Giants" tvg-name="02:00 NBL : Manawatu Jets vs Nelson Giants - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sky Sport 5 NZ
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-592.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="NBL - Auckland Tuatara vs Tauranga Whai" tvg-name="04:00 NBL : Auckland Tuatara vs Tauranga Whai - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sky Sport 4 NZ
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-591.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="WNBA - Seattle Storm vs Phoenix Mercury" tvg-name="04:00 WNBA : Seattle Storm vs Phoenix Mercury - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", WNBA League Pass
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-109.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Men's Boulder | Final World Cup | Prague - Men's Boulder | Final World Cup | Prague" tvg-name="18:30 Men's Boulder | Final World Cup | Prague - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Climbing", EuroSport 2 Italy
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Nations League Women - Turkiye vs. Poland" tvg-name="09:00 Nations League Women : Turkiye vs. Poland - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Nations League Women - Turkiye vs. Poland" tvg-name="09:00 Nations League Women : Turkiye vs. Poland - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", RTVS Sport Slovakia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-5.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Nations League Women - Turkiye vs. Poland" tvg-name="09:00 Nations League Women : Turkiye vs. Poland - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Premium 3 Serbia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-139.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Nations League Women - Turkiye vs. Poland" tvg-name="09:00 Nations League Women : Turkiye vs. Poland - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Max Sport 3 Bulgaria
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-474.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Nations League Women - Turkiye vs. Poland" tvg-name="09:00 Nations League Women : Turkiye vs. Poland - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportklub 1 Croatia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Nations League - China vs. France" tvg-name="13:30 Nations League : China vs. France - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Nations League - China vs. France" tvg-name="13:30 Nations League : China vs. France - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Sport 2 Serbia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-430.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Nations League - China vs. France" tvg-name="13:30 Nations League : China vs. France - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", SporTV2 Brazil
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Nations League - China vs. France" tvg-name="13:30 Nations League : China vs. France - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportklub 2 Croatia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-102.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="European Golden League - North Macedonia vs. Finland" tvg-name="15:00 European Golden League : North Macedonia vs. Finland - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", JOJ Sport Slovakia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-19.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="European Golden League - North Macedonia vs. Finland" tvg-name="15:00 European Golden League : North Macedonia vs. Finland - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Sport 5 Serbia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-940.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="European Golden League Women - Greece vs. Hungary" tvg-name="15:30 European Golden League Women : Greece vs. Hungary - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", M4 Sport Hungary
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-265.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="European Golden League - Portugal vs. Spain" tvg-name="18:00 European Golden League : Portugal vs. Spain - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport TV4 Portugal
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-289.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="European Golden League Women - Slovenia vs. Ukraine" tvg-name="18:00 European Golden League Women : Slovenia vs. Ukraine - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport TV7 Portugal
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-20.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="European Golden League Women - Montenegro vs. Azerbaijan" tvg-name="18:00 European Golden League Women : Montenegro vs. Azerbaijan - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", JOJ Sport Slovakia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-19.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="European Golden League Women - Montenegro vs. Azerbaijan" tvg-name="18:00 European Golden League Women : Montenegro vs. Azerbaijan - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Sport 7 Serbia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-942.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="European Golden League Women - Sweden vs. Croatia" tvg-name="18:00 European Golden League Women : Sweden vs. Croatia - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", SVT 2 Sweden
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-219.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="European Golden League - Latvia vs Montenegro" tvg-name="18:30 European Golden League : Latvia vs Montenegro - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Sport 5 Serbia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-940.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="European Golden League - Latvia vs Montenegro" tvg-name="18:30 European Golden League : Latvia vs Montenegro - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Sport 2 Croatia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-433.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Nations League Women - Germany vs. Brazil" tvg-name="18:30 Nations League Women : Germany vs. Brazil - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 3 Poland
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-129.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Nations League Women - Germany vs. Brazil" tvg-name="18:30 Nations League Women : Germany vs. Brazil - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Max Sport 2 Bulgaria
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-473.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Nations League Women - Germany vs. Brazil" tvg-name="18:30 Nations League Women : Germany vs. Brazil - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", SporTV2 Brazil
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="European Golden League - Czech Republic vs. Croatia" tvg-name="19:00 European Golden League : Czech Republic vs. Croatia - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Sport 3 Croatia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-434.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Nations League Women - Canada vs. Japan" tvg-name="22:00 Nations League Women : Canada vs. Japan - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Max Sport 2 Bulgaria
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-473.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Nations League Women - Canada vs. Japan" tvg-name="22:00 Nations League Women : Canada vs. Japan - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Sport 1 Serbia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-429.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Nations League Women - Canada vs. Japan" tvg-name="22:00 Nations League Women : Canada vs. Japan - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub HD Croatia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-453.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Nations League Women - Republic of Korea vs. Czech Republic" tvg-name="22:00 Nations League Women : Republic of Korea vs. Czech Republic - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 3 Poland
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-129.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Nations League Women - Republic of Korea vs. Czech Republic" tvg-name="22:00 Nations League Women : Republic of Korea vs. Czech Republic - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", CT Sport Czech HD
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-20.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Nations League Women - Bulgaria vs. Serbia" tvg-name="01:30 Nations League Women : Bulgaria vs. Serbia - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Nations League Women - Bulgaria vs. Serbia" tvg-name="01:30 Nations League Women : Bulgaria vs. Serbia - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena 1 Premium Serbia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Nations League Women - Bulgaria vs. Serbia" tvg-name="01:30 Nations League Women : Bulgaria vs. Serbia - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Max Sport 2 Bulgaria
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-473.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Nations League Women - Bulgaria vs. Serbia" tvg-name="01:30 Nations League Women : Bulgaria vs. Serbia - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", SporTV2 Brazil
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Nations League Women - Bulgaria vs. Serbia" tvg-name="01:30 Nations League Women : Bulgaria vs. Serbia - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub 1 Croatia
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="AVP Beach Volleyball - League Week 2 - San Diego" tvg-name="02:00 AVP Beach Volleyball : League Week 2 - San Diego - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", CW USA
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-300.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="AVP Beach Volleyball - League Week 2 - San Diego" tvg-name="02:00 AVP Beach Volleyball : League Week 2 - San Diego - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", CW PIX 11 USA
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-280.php&redirect_stream=true&api_password=shadow65
 
