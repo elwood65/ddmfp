@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Friendly - Azerbaijan vs Hungary" tvg-name="17:00 Friendly : Azerbaijan vs Hungary - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
-https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=shadow65
-
-#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="19:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Uno IT
-https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-461.php&redirect_stream=true&api_password=shadow65
-
-#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="19:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ITV 1 UK
-https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-350.php&redirect_stream=true&api_password=shadow65
-
-#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="19:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 251 IT
-https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-16.php&redirect_stream=true&api_password=shadow65
-
-#EXTINF:-1 tvg-id="Friendly - USA vs Switzerland" tvg-name="01:00 Friendly : USA vs Switzerland - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
-https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=shadow65
-
-#EXTINF:-1 tvg-id="Serie A2 - Rimini vs Cantu" tvg-name="19:30 Serie A2 : Rimini vs Cantu - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Rai Sport 1 IT
-https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=shadow65
-
 #EXTINF:-1 tvg-id="UEFA Euro U-21 - Italy U21 vs Romania U21" tvg-name="20:00 UEFA Euro U-21 : Italy U21 vs Romania U21 - 11/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RAI 2 IT
 https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-851.php&redirect_stream=true&api_password=shadow65
 
