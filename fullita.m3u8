@@ -29,3 +29,27 @@ https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.d
 #EXTINF:-1 tvg-id="Super Rugby - Crusaders VS Blues" tvg-name="08:05 Super Rugby : Crusaders VS Blues - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", Sky Sport Max IT
 https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-461.php&redirect_stream=true&api_password=shadow65
 
+#EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Sligo Rovers vs Waterford United" tvg-name="19:45 Ireland Republic - Premier Division : Sligo Rovers vs Waterford United - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-105.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="UEFA Euro U-21 - Slovakia U21 vs Italy U21" tvg-name="20:00 UEFA Euro U-21 : Slovakia U21 vs Italy U21 - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RAI 2 IT
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-851.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Al Ahly vs Inter Miami" tvg-name="01:00 FIFA Club World Cup : Al Ahly vs Inter Miami - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Italia 1 IT
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-1.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="UFC Fight Night Main Card - Kamaru Usman vs Joaquin Buckley" tvg-name="03:00 UFC Fight Night Main Card : Kamaru Usman vs Joaquin Buckley - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="MMA", Eurosport 2 IT
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Italy Serie A - Virtus Bologna vs. Pallacanestro Brescia" tvg-name="19:30 Italy Serie A : Virtus Bologna vs. Pallacanestro Brescia - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Eurosport 1 IT
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Super Rugby - Chiefs vs Brumbies" tvg-name="08:05 Super Rugby : Chiefs vs Brumbies - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", Sky Sport Arena IT
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-462.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="Gallagher Premiership Final - Bath vs Leicester Tigers" tvg-name="13:30 Gallagher Premiership Final : Bath vs Leicester Tigers - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", ITV 1 UK
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-350.php&redirect_stream=true&api_password=shadow65
+
+#EXTINF:-1 tvg-id="United Rugby Championship Final - Leinster vs Bulls" tvg-name="17:00 United Rugby Championship Final : Leinster vs Bulls - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", Sky Sport Arena IT
+https://elwood65-vadase.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-462.php&redirect_stream=true&api_password=shadow65
+
